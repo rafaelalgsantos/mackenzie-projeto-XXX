@@ -1,7 +1,7 @@
 # [NOME DA DISCIPLINA] X sem. 20XX
 
 ## Turma XXX
-## Projeto: "nome do projeto"
+## Projeto: "Unlock-me"
 ## Integrantes do grupo:
 
 * Aluno 1
@@ -11,7 +11,7 @@
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+O projeto a ser desenvolvido terá a funcionalidade de trancar/destrancar uma fechadura eletrônica utilizando arduíno. A fechadura poderá ser aberta via web ou manualmente.
 
 _______________________________________
 Obs:
