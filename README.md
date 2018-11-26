@@ -11,7 +11,7 @@
 
 ## Descrição resumida do projeto
 
-O projeto a ser desenvolvido terá a funcionalidade de trancar/destrancar uma fechadura eletrônica utilizando arduíno. A fechadura poderá ser trancada e destrancada via web ou manualmente.
+O projeto desenvolvido tem a funcionalidade de trancar/destrancar uma fechadura eletrônica utilizando arduíno. A fechadura poderá ser trancada e destrancada via web ou manualmente.
 
 _______________________________________
 Obs:
