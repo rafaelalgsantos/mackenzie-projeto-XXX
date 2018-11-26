@@ -1,6 +1,6 @@
-# Documento de Visão do Projeto Trava Eletrônica
+# Documento de Visão do Projeto Unlock-me
 
-Este documento apresenta uma solução de software para o projeto Trava Eletrônica, 
+Este documento apresenta uma solução de software para o projeto Unlock-me, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
